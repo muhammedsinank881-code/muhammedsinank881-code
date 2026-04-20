@@ -31,7 +31,7 @@
 
 Modern food ordering web application with responsive UI.
 
-🔗 Repo: https://github.com/muhammedsinank881-code/ChefKitchen
+🔗 Repo: https://github.com/muhammedsinank881-code/Grocify
 
 ---
 
