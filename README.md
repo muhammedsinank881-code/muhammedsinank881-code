@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Sinan</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Sinan K</h1>
 <h3 align="center">Frontend Developer | React Engineer | Building Real-World Applications</h3>
 
 <p align="center">
@@ -49,9 +49,9 @@ Modern food ordering web application with responsive UI.
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: Add your link
-- 📷 Instagram: Add your link
+- 📧 Email: muhammedsinank881@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/mohammed-sinan-kalathingal-838610356?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📷 Instagram:https://www.instagram.com/_m_s1nan_?utm_source=qr&igsh=MTB2cWp6Mm1uZzBjNg==
 
 ---
 
