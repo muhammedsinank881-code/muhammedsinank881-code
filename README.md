@@ -27,11 +27,13 @@
 
 ## 🌟 Featured Project
 
-### 🍽️ ChefKitchen
+### 🛒 Grocify
 
-Modern food ordering web application with responsive UI.
+Modern grocery shopping web application built with React, responsive design, clean UI, and smooth user experience.
 
 🔗 Repo: https://github.com/muhammedsinank881-code/Grocify
+
+🚀 Status: Completed & Deployed
 
 ---
 
