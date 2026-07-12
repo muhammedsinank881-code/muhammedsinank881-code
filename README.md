@@ -39,10 +39,10 @@ Associate Software Developer | Full Stack Developer (MERN)
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedsinank881-code&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsinank881-code&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=muhammedsinank881-code&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=muhammedsinank881-code&theme=tokyonight" />
 </p>
 
