@@ -33,7 +33,7 @@ Associate Software Developer | Full Stack Developer (MERN)
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,python,django,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,python,django,git,github,vscode,postman,Notion" />
 </p>
 
 ## 📊 GitHub Stats
