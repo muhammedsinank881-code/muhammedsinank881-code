@@ -43,6 +43,6 @@ Associate Software Developer | Full Stack Developer (MERN)
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsinank881-code&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=muhammedsinank881-code&theme=tokyonight" />
 </p>
 
