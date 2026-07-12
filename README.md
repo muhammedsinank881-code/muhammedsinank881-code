@@ -81,3 +81,12 @@ Responsive e-commerce grocery application with search, categories, and cart mana
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsinank881-code&layout=compact&theme=tokyonight" />
 </p>
 
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsinank881@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sinan-kalathingal-838610356)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedsinank881-code)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
