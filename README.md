@@ -37,6 +37,36 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 </p>
 
 
+## 🌟 Featured Projects
+
+### 🏫 School Management System
+Full-stack RBAC application with Admin, HOD, Teacher, and Student dashboards.
+
+**Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS
+
+🔗 Live Demo: https://your-demo-link
+🔗 Repository: https://github.com/your-repo
+
+---
+
+### 📋 Leave Management System
+Employee leave request and approval platform with JWT authentication and role-based access control.
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+🔗 Live Demo: https://your-demo-link
+🔗 Repository: https://github.com/your-repo
+
+---
+
+### 🛒 Grocify
+Responsive e-commerce grocery application with search, categories, and cart management.
+
+**Tech:** React, Tailwind CSS
+
+🔗 Live Demo: https://your-demo-link
+🔗 Repository: https://github.com/your-repo
+
 ## 📊 GitHub Stats
 
 <p align="center">
