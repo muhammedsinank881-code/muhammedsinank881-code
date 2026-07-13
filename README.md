@@ -44,8 +44,9 @@ Full-stack RBAC application with Admin, HOD, Teacher, and Student dashboards.
 
 **Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS
 
-🔗 Live Demo: [school-management-system-wm3r.vercel.app](https://school-management-system-wm3r.vercel.app/)
-🔗 Repository: https://github.com/your-repo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://school-management-system-wm3r.vercel.app/)
+
+[![Source Code](https://img.shields.io/badge/GitHub-Source_Code-black?style=flat-square&logo=github)](https://github.com/muhammedsinank881-code/School-ManagementSystem)
 
 ---
 
