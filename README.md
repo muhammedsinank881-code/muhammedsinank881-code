@@ -55,8 +55,9 @@ Employee leave request and approval platform with JWT authentication and role-ba
 
 **Tech:** React, Node.js, Express.js, MongoDB
 
-🔗 Live Demo: https://your-demo-link
-🔗 Repository: https://github.com/your-repo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://grocify-nine-brown.vercel.app/)
+
+[![Source Code](https://img.shields.io/badge/GitHub-Source_Code-black?style=flat-square&logo=github)](https://github.com/muhammedsinank881-code/Grocify)
 
 ---
 
@@ -65,8 +66,8 @@ Responsive e-commerce grocery application with search, categories, and cart mana
 
 **Tech:** React, Tailwind CSS
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://grocify-nine-brown.vercel.app/):
-🔗 Repository: https://github.com/your-repo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://grocify-nine-brown.vercel.app/)
+[![Source Code](https://img.shields.io/badge/GitHub-Source_Code-black?style=flat-square&logo=github)](https://github.com/muhammedsinank881-code/Grocify)
 
 ## 📊 GitHub Stats
 
