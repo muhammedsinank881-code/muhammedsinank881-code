@@ -65,7 +65,7 @@ Responsive e-commerce grocery application with search, categories, and cart mana
 
 **Tech:** React, Tailwind CSS
 
-🔗 Live Demo: https://your-demo-link
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://grocify-nine-brown.vercel.app/):
 🔗 Repository: https://github.com/your-repo
 
 ## 📊 GitHub Stats
