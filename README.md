@@ -70,15 +70,13 @@ Responsive e-commerce grocery application with search, categories, and cart mana
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsinank881-code&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=muhammedsinank881-code&theme=tokyonight" />
 </p>
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsinank881-code&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedsinank881-code&theme=tokyonight&row=1&column=6" />
 </p>
 
 ## 📫 Connect With Me
