@@ -73,12 +73,6 @@ Responsive e-commerce grocery application with search, categories, and cart mana
   <img src="https://streak-stats.demolab.com?user=muhammedsinank881-code&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedsinank881-code&theme=tokyonight&row=1&column=6" />
-</p>
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsinank881@gmail.com)
