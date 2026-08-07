@@ -9,7 +9,7 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Associate+Software+Developer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Production+Ready+Applications&center=true&width=700&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Associate+Software+Developer;Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB&center=true&width=700&height=50">
 </p>
 
 
