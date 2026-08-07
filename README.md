@@ -9,7 +9,10 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 </h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,framermotion,nodejs,express,mongodb,mysql,python,django,git,github,npm,vscode,postman,notion,render,vercel&perline=11" />
+<img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Associate+Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Building+Production+Ready+Applications"
+    alt="Typing SVG"
+  />
 </p>
 
 
