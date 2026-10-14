@@ -42,7 +42,7 @@ with the MERN stack and Python/Django, from database design to polished UI.
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,mongodb,mysql,prisma,python,django,git,github,vscode,postman,figma,notion,render&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,mongodb,mysql,prisma,python,django,git,github,vscode,postman,figma,notion,trello,render&perline=10" />
 </p>
 
 
