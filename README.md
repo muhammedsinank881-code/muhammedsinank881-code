@@ -36,7 +36,7 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,ts,mongodb,mysql,python,django,git,github,vscode,postman,notion,render&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,mongodb,mysql,prisma,python,django,git,github,vscode,postman,figma,notion,render&perline=10" />
 </p>
 
 
