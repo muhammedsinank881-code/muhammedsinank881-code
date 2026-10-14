@@ -18,17 +18,23 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 
 ## 🚀 About Me
 
-💼 Associate Software Developer with hands-on experience building full-stack web applications.
+I'm an Software Developer who builds full-stack web applications
+with the MERN stack and Python/Django, from database design to polished UI.
 
-⚡ Experienced in developing scalable solutions using React.js, Node.js, Express.js, MongoDB, Python, and Django.
+**What I work on**
+- Secure authentication and authorization systems (JWT, role-based access control)
+- REST APIs designed for clean structure and easy consumption by frontends
+- Scalable state management in React using Redux Toolkit
 
-🔐 Strong background in:
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- REST API Development
-- Redux Toolkit
+**Recent work**
+- Built Autonix E-commerce Website: Developed a full-stack e-commerce application with complete CRUD operations for managing products and related data through REST APIs.
+- Developed GYM Management Portal: Implemented role-based access control (RBAC) and troubleshot a React useEffect dependency issue that caused stale state and prevented parts of the UI from reflecting the latest updates.
 
-🚀 Passionate about creating performant, maintainable, and user-focused applications.
+**Currently**
+- 🔭 Building production-ready full-stack applications using React, Node.js, Express, and MongoDB
+- 📚 Learning TypeScript, Prisma, SQL, and scalable backend architecture
+- 🛠️ Improving my skills in REST API design, authentication, and role-based access control (RBAC)
+- 🤝 Open to full-time software developer opportunities and collaboration on interesting projects
 
 🎯 Currently focused on building production-ready web applications and advancing my expertise in software architecture.
 
