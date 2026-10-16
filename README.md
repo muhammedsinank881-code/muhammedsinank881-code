@@ -16,7 +16,7 @@ Associate Software Developer | Full Stack Developer (MERN) | Building Scalable W
 </p>
 
 
-## 🚀 About 
+## 🚀 About Me
 
 I'm an Software Developer who builds full-stack web applications
 with the MERN stack and Python/Django, from database design to polished UI.
