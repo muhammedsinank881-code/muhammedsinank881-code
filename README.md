@@ -46,7 +46,7 @@ with the MERN stack and Python/Django, from database design to polished UI.
 </p>
 
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 ### 🚗 Autonex — E-commerce Website
 Full-stack e-commerce application featuring product management, RESTful API operations, and a responsive shopping interface.
