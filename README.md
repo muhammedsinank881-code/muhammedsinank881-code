@@ -2,7 +2,7 @@
   <img src="./banner.jpeg" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Sinan </h1>
+<h1 align="center">Hi 👋, I'm Mohammed Sinan K</h1>
 
 <h3 align="center">
 Associate Software Developer | Full Stack Developer (MERN) | Building Scalable Web Applications
