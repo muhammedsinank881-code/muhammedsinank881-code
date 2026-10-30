@@ -51,7 +51,7 @@ with the MERN stack and Python/Django, from database design to polished UI.
 ### 🚗 Autonex — E-commerce Website
 Full-stack e-commerce application featuring product management, RESTful API operations, and a responsive shopping interface.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Prisma
+**Tech:** React, Node.js, Express.js, MongoDB
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://autonex-six.vercel.app/)
 [![Source Code](https://img.shields.io/badge/GitHub-Source_Code-black?style=flat-square&logo=github)](https://github.com/muhammedsinank881-code/Autonex)
